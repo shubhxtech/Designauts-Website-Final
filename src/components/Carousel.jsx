@@ -11,9 +11,6 @@ function VideoCarousel() {
       url: '../../videos/0001.mp4',
     },
     {
-      url: '../../videos/final.mov',
-    },
-    {
       url: '../../videos/final.mp4',
     },
     {
